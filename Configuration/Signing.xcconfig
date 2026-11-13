@@ -1,0 +1,5 @@
+// Orbit imza ayarları.
+// Kişisel Apple takım kimliği repoya yazılmaz. Bu klasörde Local.xcconfig dosyası oluşturup içine şunu yaz:
+//   DEVELOPMENT_TEAM = <takım kimliğin>
+// Local.xcconfig .gitignore'da olduğu için git'e girmez.
+#include? "Local.xcconfig"
